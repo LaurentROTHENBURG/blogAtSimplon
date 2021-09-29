@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c645c53-4d82-4292-8a1a-f06d458cea29" name="Default Changelist" comment="" />
+    <list default="true" id="2c645c53-4d82-4292-8a1a-f06d458cea29" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/home.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/root.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/root.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/blog/page-0/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog/page-0/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/posts/coucou/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/posts/coucou/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1632902069178</updated>
       <workItem from="1632902071122" duration="3000" />
-      <workItem from="1632902101734" duration="2285000" />
+      <workItem from="1632902101734" duration="12036000" />
     </task>
     <servers />
   </component>
