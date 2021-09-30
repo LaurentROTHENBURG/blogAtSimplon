@@ -7,21 +7,23 @@ h1 {
     color: #7c8798;
     font-size: 1.5em;
     margin-left: 1em;
-    color: white;
+    color: #7c8798;
 }
 
-nav{
+nav {
     height: 3em;
-    background: #7c8798;
+    background: #6ab139;
 }
 
 .menu {
     display: flex;
     padding: 0;
     align-items: center;
-    justify-content: center;
-    height: 3em;
+    justify-content: right;
+    height: 4em;
     font-size: 0.75em;
+    text-transform: uppercase;
+    margin-right: 15%;
 }
 
 .menu li {
@@ -31,7 +33,7 @@ nav{
 .menu a {
     min-width: 120px;
     margin: 1rem;
-    background-color: #7c8798;
+    background-color: #6ab139;
     color: #fff;
     padding: 0.3rem 1rem;
     text-decoration: none;
@@ -41,7 +43,48 @@ nav{
 }
 
 .menu a:hover {
-    background-color: #428bca;
+    background-color: #9dca5d;
     color: #fff;
     border-color: #fff;
+}
+
+.title {
+    background-color: #9dca5d;
+    height: 5em;
+    align-items: center;
+    line-height: 5em; /* hauteur de ligne (identique) */
+    white-space: nowrap; /* interdiction de passer à la ligne */
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    font-size: 1em;
+}
+
+h3{
+    text-align: center;
+    color: black;
+    font-weight:600;
+}
+
+
+.accueil{
+    text-align: center;
+}
+
+img{
+    width: 800px;
+    height:auto;
+}
+
+footer{
+    text-align: center;
+    color : #9dca5d;
+}
+
+.proposText{
+    margin: auto;
+    width : 60%;
+    text-align: justify;
 }
