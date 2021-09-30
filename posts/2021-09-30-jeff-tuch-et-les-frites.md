@@ -6,7 +6,7 @@ date: 2021-09-30T08:23:22.560Z
 ---
 <!--StartFragment-->
 
-## Quelles pommes de terre utiliser ?
+Quelles pommes de terre utiliser ?
 
 L'idéal lorsque l'on souhaite faire de bonnes frites, fondantes à l'intérieur et croustillantes en dehors, c'est d'utiliser des pommes de terre dites **farineuses**. Ces dernières ont la particularité de posséder une chair à large teneur en matière sèche qui les empêche d'absorber trop d'huile à la cuisson.
 

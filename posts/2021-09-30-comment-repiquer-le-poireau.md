@@ -6,7 +6,7 @@ date: 2021-09-30T08:33:43.713Z
 ---
 <!--StartFragment-->
 
-## Comment repiquer le poireau
+Comment repiquer le poireau
 
 * Arracher les poireaux, secouer la terre, couper les racines à 1 cm et raccourcir les feuilles.
 * Installer les jeunes plants tous les 10 à 12 cm, dans des sillons de 10 cm de profondeur, espacés de 30 cm.

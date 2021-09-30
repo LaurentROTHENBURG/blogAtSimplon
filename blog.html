@@ -3,14 +3,18 @@ layout: root.html
 title: Le blog de Jules
 permalink: "/blog/page-{{ pagination.pageNumber }}/index.html"
 pagination:
-    data: collections.posts
-    size: 3
-    alias: posts
+data: collections.posts
+size: 3
+alias: posts
 ---
+<head>
+    <meta name="description" content="le blog de Jeff TUCH">
+</head>
+
 
 <section>
     <h1>
-        Mes artcicles de blog
+        Mes articles de blog
     </h1>
 
     <nav id="nav-blog">
@@ -44,7 +48,11 @@ pagination:
                 <a href="{{post.url | url}}">{{ post.data.title }}</a>
             </h2>
         </div>
-        <p>{{ post.templateContent | truncate: 512 }} <a href="{{post.url | url}}">(Lire la suite...)</a></p>
+
+        <div class="text">
+            <p>{{ post.templateContent | truncate: 400 }} <a href="{{post.url | url}}">(Lire la suite...)</a></p>
+        </div>
+
     </article>
     {%- endfor -%}
 </section>

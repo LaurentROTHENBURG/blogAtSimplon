@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c645c53-4d82-4292-8a1a-f06d458cea29" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accueil.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/admin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.eleventy.js" beforeDir="false" afterPath="$PROJECT_DIR$/.eleventy.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/root.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/root.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about/index.html" afterDir="false" />
@@ -14,10 +9,12 @@
       <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/posts/coucou/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/posts/coucou/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/accueil.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@11ty/eleventy/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@11ty/eleventy/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accueil.html" beforeDir="false" afterPath="$PROJECT_DIR$/accueil.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/2021-09-30-comment-planter-des-choux.md" beforeDir="false" afterPath="$PROJECT_DIR$/posts/2021-09-30-comment-planter-des-choux.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/2021-09-30-comment-repiquer-le-poireau.md" beforeDir="false" afterPath="$PROJECT_DIR$/posts/2021-09-30-comment-repiquer-le-poireau.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/2021-09-30-jeff-tuch-et-les-frites.md" beforeDir="false" afterPath="$PROJECT_DIR$/posts/2021-09-30-jeff-tuch-et-les-frites.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +65,7 @@
       <updated>1632902069178</updated>
       <workItem from="1632902071122" duration="3000" />
       <workItem from="1632902101734" duration="23019000" />
-      <workItem from="1632985597294" duration="322000" />
+      <workItem from="1632985597294" duration="13479000" />
     </task>
     <servers />
   </component>

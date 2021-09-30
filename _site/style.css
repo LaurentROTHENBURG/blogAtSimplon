@@ -1,16 +1,22 @@
 body {
     font-family: Verdana;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
 
+main {
+    flex: 1;
 }
 
 h1 {
-    color: #7c8798;
-    font-size: 1.5em;
+    color: #228B22;
+    font-size: 1em;
     margin-left: 1em;
-    color: #7c8798;
 }
 
-nav {
+.navigation {
     height: 3em;
     background: #6ab139;
 }
@@ -23,7 +29,19 @@ nav {
     height: 4em;
     font-size: 0.75em;
     text-transform: uppercase;
-    margin-right: 15%;
+    margin: 0;
+}
+
+@media all and (max-width: 450px) {
+    nav > ul {
+        flex-direction: column;
+        align-items: flex-end;
+    }
+    .navigation {
+        height: 7em;
+        background: #6ab139;
+    }
+
 }
 
 .menu li {
@@ -52,8 +70,8 @@ nav {
     background-color: #9dca5d;
     height: 5em;
     align-items: center;
-    line-height: 5em; /* hauteur de ligne (identique) */
-    white-space: nowrap; /* interdiction de passer à la ligne */
+    line-height: 5em;
+    white-space: nowrap;
 }
 
 h2 {
@@ -62,29 +80,48 @@ h2 {
     font-size: 1em;
 }
 
-h3{
+h3 {
     text-align: center;
     color: black;
-    font-weight:600;
+    font-weight: 600;
 }
 
 
-.accueil{
+.accueil {
     text-align: center;
 }
 
-img{
+img {
     width: 800px;
-    height:auto;
+    height: auto;
 }
 
-footer{
+footer {
     text-align: center;
-    color : #9dca5d;
+    color: #9dca5d;
 }
 
-.proposText{
+.text {
     margin: auto;
-    width : 60%;
+    width: 60%;
     text-align: justify;
+}
+
+ol {
+    list-style-type: none;
+    display: flex;
+    padding: 0;
+    align-items: center;
+    justify-content: center;
+    height: 4em;
+    font-size: 0.75em;
+    text-transform: uppercase;
+}
+
+li {
+    margin-right: 1rem;
+}
+
+.div-article-header {
+    margin-top: 3em;
 }

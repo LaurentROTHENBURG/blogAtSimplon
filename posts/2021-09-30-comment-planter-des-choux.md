@@ -10,7 +10,7 @@ On peut semer les graines de chou à l’intérieur environ 6 semaines avant la 
 
 Les choux sont gourmands, alors il faut préparer le substrat en mélangeant du compost avec de la terre en quantité égale. Enfouissez les graines à 1,5 cm. Recouvrez de terre, et arrosez légèrement. Lorsque les plants ont 3 ou 4 feuilles, ne conservez que les plus vigoureux.
 
-### Culture du chou au jardin
+ Culture du chou au jardin
 
 Une fois écartés les risques de gelée, on peut planter les petits choux en pleine terre.
 
